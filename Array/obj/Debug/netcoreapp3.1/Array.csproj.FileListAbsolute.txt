@@ -1,0 +1,13 @@
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 9\Array\obj\Debug\netcoreapp3.1\Array.csprojAssemblyReference.cache
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 9\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 9\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 9\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 9\Array\bin\Debug\netcoreapp3.1\Array.exe
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 9\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 9\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 9\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 9\Array\bin\Debug\netcoreapp3.1\Array.dll
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 9\Array\bin\Debug\netcoreapp3.1\Array.pdb
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 9\Array\obj\Debug\netcoreapp3.1\Array.dll
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 9\Array\obj\Debug\netcoreapp3.1\Array.pdb
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 9\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache
